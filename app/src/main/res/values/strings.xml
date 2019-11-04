@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CSE 118 Assignment 1 - Book Catalogue</string>
+
+    <!-- Main Activity -->
+    <string name="add_book_button_text">Add Book</string>
+    <string name="view_catalogue_button_text">View Catalogue</string>
+    <string name="exit_button_text">Exit</string>
+
+    <!-- Add Book activity -->
+    <string name="title_hint_text">Title</string>
+    <string name="author_hint_text">Author</string>
+    <string name="year_hint_text">Year Published</string>
+    <string name="description_hint_text">Description</string>
+    <string name="isbn_hint_text">ISBN</string>
+    <string name="ebook_label_text">Ebook Available?</string>
+    <string name="save_button_text">Save</string>
+
+    <!-- View Book activity -->
+    <string name="title_label_text">Title</string>
+    <string name="author_label_text">Author</string>
+    <string name="year_label_text">Year Published</string>
+    <string name="description_label_text">Description</string>
+    <string name="isbn_label_text">ISBN</string>
+    <string name="ebook_avail_label_text">Ebook Available?</string>
+    <string name="add_profile_button_text">Add Profile</string>
+    <string name="view_random_profile_button_text">View Random Profile</string>
+    <string name="cruzid_input_hint">CruzID</string>
+    <string name="name_input_hint">Full Name</string>
+    <string name="year_input_hint">Year Joined</string>
+    <string name="courses_input_hint">Enter comma separated courses</string>
+    <string name="add_profile_save_button_text">Save Profile</string>
+    <string name="save_profile_validation_error">Please enter valid input!</string>
+    <string name="save_profile_success">Profile saved successfully!</string>
+    <string name="update_button_text">Update</string>
+    <string name="delete_button_text">Delete Profile</string>
+    <string name="update_delete_button_text">Update/Delete Profile</string>
+    <string name="update_name_hint">Full Name</string>
+</resources>
