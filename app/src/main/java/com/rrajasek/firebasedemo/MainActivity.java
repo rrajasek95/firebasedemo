@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        // Test change over here
         addProfileButton = findViewById(R.id.add_profile_button);
         viewRandomProfileButton = findViewById(R.id.view_random_profile_button);
         updateDeleteProfileButton = findViewById(R.id.update_delete_profile_button);
